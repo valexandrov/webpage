@@ -4,13 +4,11 @@ image: images/1.jpg
 description: Associate Professor
 role: pi
 aliases:
-  - V. A.
-  - V.
-  - VA
+  - V. Alexandrov
 links:
-  orcid: 0000-0001-8713-9213
+  google-scholar: https://scholar.google.com/citations?user=yYbV2fIAAAAJ&hl=en
   email: valexandrov2@unl.edu
-  twitter: uptonogoode
+  twitter: valexandrov
 ---
 
 Dr. Alexandrov comes to UNL after three years as a research associate at the Pacific Northwest National Laboratory, where he worked on modeling of coupled electron/ion transport dynamics through polycrystalline oxide networks, adsorption phenomena, interfacial electron transfer and selective oxidation of Ni-base alloys.
