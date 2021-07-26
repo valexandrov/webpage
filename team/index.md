@@ -16,8 +16,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include list.html
-  data="Vitaly Alexandrov"
-  component="1.jpg"
+  data="members"
+  component="portrait"
   filters="role: pi"
 %}
 {%
