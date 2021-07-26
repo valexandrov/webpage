@@ -1,6 +1,6 @@
 ---
 name: Anne Chovie
-image: images/member.jpg
+image: images/3.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
