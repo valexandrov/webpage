@@ -1,20 +1,20 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
+- id: doi:10.1021/acsenergylett.1c00234
+  image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aelccp/2021/aelccp.2021.6.issue-3/acsenergylett.1c00234/20210305/images/medium/nz1c00234_0004.gif
+  date: 2021-3-2
   extra-links:
     - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+      link: https://valexandrov.github.io/varg/knowledge-graph-review/
   tags:
     - knowledge graphs
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.1002/anie.202100337
+  image: https://onlinelibrary.wiley.com/cms/asset/02c3862e-2284-4c98-aea8-95db6128cd71/anie202100337-fig-0004-m.jpg
   repo: greenelab/meta-review
   extra-links:
     - type: manubot
-      link: https://greenelab.github.io/meta-review/
+      link: https://valexandrov.github.io/varg/meta-review/
     - type: source
-      link: https://github.com/greenelab/meta-review
+      link: https://valexandrov.github.io/varg/meta-review
     - type: website
       link: http://manubot.org/
 
