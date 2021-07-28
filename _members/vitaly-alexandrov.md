@@ -6,8 +6,8 @@ role: pi
 aliases:
   - V. Alexandrov
 links:
-  google-scholar: https://scholar.google.com/citations?user=yYbV2fIAAAAJ&hl=en&oi=ao
   email: valexandrov2@unl.edu
+  google-scholar: https://scholar.google.com/citations?user=yYbV2fIAAAAJ&hl=en
   twitter: vitalyalexandrov
 ---
 
