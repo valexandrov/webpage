@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 5
   tooltip: About our team
 ---
 
@@ -22,6 +22,12 @@ Thank you for being interested in our research! Our work in Alexandrov Research 
   data="members"
   component="portrait"
   filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
 %}
 {%
   include list.html
