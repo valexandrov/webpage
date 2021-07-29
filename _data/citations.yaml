@@ -1,19 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1021/acsenergylett.1c00234
+  title: Ab Initio Thermodynamics and Kinetics of the Lattice Oxygen Evolution Reaction in Iridium Oxides
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Alexandra Zagalskaya
+  - Iman Evazzade
+  - Vitaly Alexandrov
+  publisher: ACS Energy Lett.
+  date: '2021-03-02'
+  link: https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00234
+  image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aelccp/2021/aelccp.2021.6.issue-3/acsenergylett.1c00234/20210305/images/medium/nz1c00234_0004.gif
   extra-links:
   - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+    link: https://pubs.acs.org/doi/abs/10.1021/acsenergylett.1c00234
   tags:
-  - knowledge graphs
+  - AEM vs. LOM
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
