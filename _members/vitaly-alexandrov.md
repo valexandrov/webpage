@@ -4,7 +4,7 @@ image: images/1.jpg
 description: Associate Professor
 role: pi
 aliases:
-  - V. Alexandrov
+  - Vitaly Alexandrov
 links:
   email: valexandrov2@unl.edu
   google-scholar: yYbV2fIAAAAJ

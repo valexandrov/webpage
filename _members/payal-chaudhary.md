@@ -4,7 +4,7 @@ image: images/4.jpg
 description: PhD Student
 role: phd
 aliases:
-  - P. Chaudhary
+  - Payal Chaudhary
 links:
   email: pchaudhary3@huskers.unl.edu
 ---

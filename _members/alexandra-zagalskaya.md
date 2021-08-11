@@ -4,7 +4,7 @@ image: images/3.jpg
 description: PhD Student
 role: phd
 aliases:
-  - A. Zagalskaya
+  - Alexandra Zagalskaya
 links:
   email: alexandra.zagalskaya@huskers.unl.edu
   google-scholar: 4Us8qGQAAAAJ
