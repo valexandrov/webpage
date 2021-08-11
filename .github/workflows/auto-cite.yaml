@@ -3,7 +3,7 @@ name: Auto Cite
 on:
   push:
     branches:
-      - main
+      - gh-pages
     paths:
       - "_data/sources.yaml"
   pull_request:
