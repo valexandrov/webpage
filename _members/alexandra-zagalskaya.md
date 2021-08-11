@@ -7,7 +7,7 @@ aliases:
   - A. Zagalskaya
 links:
   email: alexandra.zagalskaya@huskers.unl.edu
-  google-scholar: https://scholar.google.com/citations?user=4Us8qGQAAAAJ&hl=en
+  google-scholar: 4Us8qGQAAAAJ
   facebook: alexandra.zagalskaya
 ---
 

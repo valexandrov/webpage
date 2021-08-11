@@ -6,7 +6,7 @@ role: postdoc
 aliases:
   - I. Evazzade
 links:
-  google-scholar: https://scholar.google.com/citations?user=acAkx88AAAAJ&hl=en
+  google-scholar: acAkx88AAAAJ
   email: i.evazzade@unl.edu
   twitter: ievazzade
 ---

@@ -7,7 +7,7 @@ aliases:
   - V. Alexandrov
 links:
   email: valexandrov2@unl.edu
-  google-scholar: https://scholar.google.com/citations?user=yYbV2fIAAAAJ&hl=en
+  google-scholar: yYbV2fIAAAAJ
   twitter: vitalyalexandrov
 ---
 
