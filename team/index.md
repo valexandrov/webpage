@@ -59,36 +59,36 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Funding
+## Gallery
 
-Our work is made possible by funding from several organizations.
+Gallery
 {:.center}
 
 {%
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
+  image1="images/gallery-1.jpg"
+  link1="https://valexandrov.github.io/varg/images/gallery-1.jpg"
   tooltip1="Cool Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
+  image2="images/gallery-2.jpg"
+  link2="https://valexandrov.github.io/varg/images/gallery-2.jpg"
   tooltip2="Cool Institute"
 
   image3="images/photo.jpg"
-  link3="https://nasa.gov/"
+  link3=""
   tooltip3="Cool Initiative"
 
   image4="images/photo.jpg"
-  link4="https://nasa.gov/"
+  link4=""
   tooltip4="Cool Foundation"
 
   image5="images/photo.jpg"
-  link5="https://nasa.gov/"
+  link5=""
   tooltip5="Cool Institute"
 
   image6="images/photo.jpg"
-  link6="https://nasa.gov/"
+  link6=""
   tooltip6="Cool Initiative"
 %}
