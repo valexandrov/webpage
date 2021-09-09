@@ -1,6 +1,6 @@
 ---
 name: Sunny
-image: images/6.jpg
+image: images/sunny.jpg
 description: Postdog
 role: postdog
 aliases:

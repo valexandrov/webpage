@@ -1,6 +1,6 @@
 ---
 name: Alexandra Zagalskaya
-image: images/3.jpg
+image: images/alexandra-zagalskaya.jpg
 description: PhD Student
 role: phd
 aliases:

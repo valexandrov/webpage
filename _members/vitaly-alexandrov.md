@@ -1,6 +1,6 @@
 ---
 name: Vitaly Alexandrov
-image: images/1.jpg
+image: images/vitaly-alexandrov.jpg
 description: Associate Professor
 role: pi
 aliases:

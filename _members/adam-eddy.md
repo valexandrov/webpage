@@ -1,6 +1,6 @@
 ---
 name: Adam Eddy
-image: images/5.jpg
+image: images/adam-eddy.jpg
 description: Summer-Intern
 role: undergrad
 aliases:

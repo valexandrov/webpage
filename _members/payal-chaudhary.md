@@ -1,6 +1,6 @@
 ---
 name: Payal Chaudhary
-image: images/4.jpg
+image: images/payal-chaudhary.jpg
 description: PhD Student
 role: phd
 aliases:
