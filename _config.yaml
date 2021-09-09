@@ -49,6 +49,8 @@ defaults:
 collections:
   members:
     output: true
+  projects:
+    output: true
 
 # sass settings
 sass:

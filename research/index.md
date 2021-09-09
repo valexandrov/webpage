@@ -2,26 +2,23 @@
 title: Research
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research
 ---
 
 # <i class="fas fa-tools"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our research is in the field of theory and simulation of condensed matter and revolves around application of quantum-mechanical based computational methods to study advanced materials for sustainable energy and device applications. The key focus is on the development of fundamental understanding of atomic-scale mechanisms that govern (nano)materials properties, especially at electrochemical interfaces. To this end, we employ a variety of theoretical methods including density-functional-theory static and molecular dynamics simulations combined with enhanced free-energy sampling techniques, Marcus electron transfer theory, Monte Carlo and ab initio thermodynamics approaches.
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Ongoing Projects
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: ongoing" %}
 
 {% include section.html %}
 
-## More
+## Previous Projects
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="projects" filters="group: previous" style="small" %}
