@@ -3,23 +3,9 @@
 
 - id: doi:10.1002/anie.202100337
   image: https://onlinelibrary.wiley.com/cms/asset/02c3862e-2284-4c98-aea8-95db6128cd71/anie202100337-fig-0004-m.jpg
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://valexandrov.github.io/varg/meta-review/
-    - type: source
-      link: https://valexandrov.github.io/varg/meta-review
-    - type: website
-      link: http://manubot.org/
 
 - id: doi:10.1021/acsenergylett.1c00234
   image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aelccp/2021/aelccp.2021.6.issue-3/acsenergylett.1c00234/20210305/images/medium/nz1c00234_0004.gif
-  date: 2021-3-2
-  extra-links:
-    - type: manubot
-      link: https://valexandrov.github.io/varg/knowledge-graph-review/
-  tags:
-    - knowledge graphs
 
 - id: doi:10.1021/acsanm.0c02768
   image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aanmf6/2021/aanmf6.2021.4.issue-1/acsanm.0c02768/20210115/images/large/an0c02768_0008.jpeg
@@ -95,18 +81,3 @@
 
 - id: doi:10.1063/1.4962748
   image: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/jcp/2016/jcp.2016.145.issue-11/1.4962748/production/images/medium/1.4962748.figures.f2.gif
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
-
