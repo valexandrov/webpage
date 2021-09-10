@@ -16,4 +16,4 @@ The problem of anthropogenic CO2 emissions has been recently attracting a lot of
 ### Representative publications
 
 Klyukin K. and Alexandrov V. “CO2 Adsorption and Reactivity on Rutile TiO2(110) in Water: An Ab Initio Molecular Dynamics Study.”  
-[_Journal of Physical Chemistry C_ __121__, 10476–10483 (2017)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b02777){:target="_blank"}
+[_Journal of Physical Chemistry C_ __121__, 10476–10483 (2017)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b02777)

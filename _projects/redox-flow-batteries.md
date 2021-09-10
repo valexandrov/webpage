@@ -18,7 +18,7 @@ The figure shows free-energy profiles for the adsorption-desorption processes be
 ### Representative Publications
 
 Jiang Z., Klyukin K. and Alexandrov V. “First-Principles Study of Adsorption-Desorption Kinetics of Aqueous V2+/V3+ Redox Species on Graphite in a Vanadium Redox Flow Battery.”  
-[_Physical Chemistry Chemical Physics (Communication)_ __19__, 14897-14901 (2017)](http://pubs.rsc.org/en/content/articlelanding/2014/CP/C7CP02350B#!divAbstract){:target="_blank"}
+[_Physical Chemistry Chemical Physics (Communication)_ __19__, 14897-14901 (2017)](http://pubs.rsc.org/en/content/articlelanding/2014/CP/C7CP02350B#!divAbstract)
 
 Jiang Z., Klyukin K. and Alexandrov V. “Structure, Hydrolysis and Diffusion of Aqueous Vanadium Ions from Car-Parrinello Molecular Dynamics.”  
-[_Journal of Chemical Physics_ __145__, 114303-114311 (2016)](http://scitation.aip.org/content/aip/journal/jcp/145/11/10.1063/1.4962748){:target="_blank"}
+[_Journal of Chemical Physics_ __145__, 114303-114311 (2016)](http://scitation.aip.org/content/aip/journal/jcp/145/11/10.1063/1.4962748)

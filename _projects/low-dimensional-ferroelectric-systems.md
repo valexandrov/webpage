@@ -16,4 +16,4 @@ The control over field-induced polarization switching in ferroelectric-based dev
 ### Representative publications
 
 Klyukin K. and Alexandrov V. “Effect of Intrinsic Point Defects on Ferroelectric Polarization Behavior of SrTiO3.”  
-[_Physical Review B_ __95__, 035301-035308 (2017)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.035301){:target="_blank"}
+[_Physical Review B_ __95__, 035301-035308 (2017)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.035301)
