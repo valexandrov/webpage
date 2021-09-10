@@ -21,4 +21,4 @@ Our research is in the field of theory and simulation of condensed matter and re
 
 ## Previous Projects
 
-{% include list.html component="post-excerpt" data="projects" filters="group: previous" style="small" %}
+{% include list.html component="card" data="projects" filters="group: previous" style="small" %}
