@@ -4,7 +4,7 @@ title: Home
 
 # Theory and Simulation of Condensed Matter
 
-Our research revolves around
+Our research revolves around application of first-principles based theoretical and computational approaches to study complex reaction dynamics of electrochemical processes.
   
 {%
   include link.html
