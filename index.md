@@ -6,29 +6,6 @@ title: Home
 
 The main goal of our research is to gain fundamental theoretical understanding of materials properties and how they manifest in a variety of energy and catalysis applications. We are especially interested in the mechanistic interplay between structure, stability and reactivity of electrochemical interfaces playing a central role in electrocatalysis and batteries. To this end, we employ a range of thermodynamic, quantum and statistical based computational approaches such as electronic-structure theory and ab initio molecular dynamics.
   
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
-
-{% include section.html full=true %}
-
-{% include banner.html image="images/IMG_0024_invert.PNG" %}
-
-{% include section.html %}
 
 # Highlights
 
