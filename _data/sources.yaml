@@ -18,6 +18,9 @@
 
 - id: doi:10.1021/acs.jpclett.0c00335
   image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jpclcd/2020/jpclcd.2020.11.issue-7/acs.jpclett.0c00335/20200327/images/large/jz0c00335_0006.jpeg
+  extra-links:
+    - type: source
+      link: https://valexandrov.github.io/varg/papers/acs.jpclett.0c00335.pdf
 
 - id: doi:10.1021/acscatal.9b05544
   image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/accacs/2020/accacs.2020.10.issue-6/acscatal.9b05544/20200316/images/large/cs9b05544_0011.jpeg
