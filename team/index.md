@@ -77,8 +77,8 @@ Gallery
   image3="images/gallery-3.jpg"
   link3="https://valexandrov.github.io/varg/images/gallery-3.jpg"
 
-  image4="images/gallery-4.mov"
-  link4="https://valexandrov.github.io/varg/images/gallery-4.mov"
+  image4="images/gallery-4.gif"
+  link4="https://valexandrov.github.io/varg/images/gallery-4.gif"
 
   image5="images/photo.jpg"
   link5=""
