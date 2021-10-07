@@ -70,19 +70,15 @@ Gallery
 
   image1="images/gallery-1.jpg"
   link1="https://valexandrov.github.io/varg/images/gallery-1.jpg"
-  tooltip1="Cool Foundation"
 
   image2="images/gallery-2.jpg"
   link2="https://valexandrov.github.io/varg/images/gallery-2.jpg"
-  tooltip2="Cool Institute"
 
-  image3="images/photo.jpg"
-  link3=""
-  tooltip3="Cool Initiative"
+  image3="images/gallery-3.jpg"
+  link3="https://valexandrov.github.io/varg/images/gallery-3.jpg"
 
-  image4="images/photo.jpg"
-  link4=""
-  tooltip4="Cool Foundation"
+  image4="images/gallery-4.mov"
+  link4="https://valexandrov.github.io/varg/images/gallery-4.mov"
 
   image5="images/photo.jpg"
   link5=""
