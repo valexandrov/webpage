@@ -114,6 +114,12 @@ manubot:
 
 # software
 
+pdf:
+  icon: far fa-file-pdf
+  text: PDF
+  tooltip: PDF
+  link: $LINK
+
 docs:
   icon: fas fa-book
   text: Docs
