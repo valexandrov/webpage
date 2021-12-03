@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Alexandrov Research Group
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.jpg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /varg
