@@ -1,3 +1,21 @@
+- id: doi:10.1021/acs.jpcc.2c03117
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.2c03117/asset/images/medium/jp2c03117_0006.gif
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/varg/papers/acs.jpcc.2c03117.pdf
+
+- id: doi:10.1021/jacsau.2c00143
+  image: https://pubs.acs.org/cms/10.1021/jacsau.2c00143/asset/images/medium/au2c00143_0010.gif
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/varg/papers/jacsau.2c00143.pdf
+
+- id: doi:10.1021/acs.jpclett.1c04187
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.1c04187/asset/images/medium/jz1c04187_0006.gif
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/varg/papers/acs.jpclett.1c04187.pdf
+
 - id: doi:10.1021/acscatal.1c02074
   image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/accacs/2021/accacs.2021.11.issue-15/acscatal.1c02074/20210802/images/large/cs1c02074_0012.jpeg
   extra-links:
