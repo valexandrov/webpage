@@ -1,5 +1,54 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acs.jpcc.2c03117
+  title: Structure-Dependent Electrical Double-Layer Capacitances of the Basal Plane
+    Pd(<i>hkl</i>) Electrodes in HClO<sub>4</sub>
+  authors:
+  - Elena Gubanova
+  - Thorsten O. Schmidt
+  - Sebastian Watzele
+  - Vitaly Alexandrov
+  - Aliaksandr S. Bandarenka
+  publisher: The Journal of Physical Chemistry C
+  date: '2022-07-05'
+  link: https://doi.org/gqprmp
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.2c03117/asset/images/medium/jp2c03117_0006.gif
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/varg/papers/acs.jpcc.2c03117.pdf
+- id: doi:10.1021/jacsau.2c00143
+  title: Molecular-Level Control over Ionic Conduction and Ionic Current Direction
+    by Designing Macrocycle-Based Ionomers
+  authors:
+  - Shyambo Chatterjee
+  - Ehsan Zamani
+  - Seefat Farzin
+  - Iman Evazzade
+  - Oghenetega Allen Obewhere
+  - Tyler James Johnson
+  - Vitaly Alexandrov
+  - Shudipto Konika Dishari
+  publisher: JACS Au
+  date: '2022-05-11'
+  link: https://doi.org/gqprmr
+  image: https://pubs.acs.org/cms/10.1021/jacsau.2c00143/asset/images/medium/au2c00143_0010.gif
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/varg/papers/jacsau.2c00143.pdf
+- id: doi:10.1021/acs.jpclett.1c04187
+  title: Revealing Elusive Intermediates of Platinum Cathodic Corrosion through DFT
+    Simulations
+  authors:
+  - Iman Evazzade
+  - Alexandra Zagalskaya
+  - Vitaly Alexandrov
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2022-03-30'
+  link: https://doi.org/gqprms
+  image: https://pubs.acs.org/cms/10.1021/acs.jpclett.1c04187/asset/images/medium/jz1c04187_0006.gif
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/varg/papers/acs.jpclett.1c04187.pdf
 - id: doi:10.1021/acscatal.1c02074
   title: "Increased Ir\u2013Ir Interaction in Iridium Oxide during the Oxygen Evolution\
     \ Reaction at High Potentials Probed by Operando Spectroscopy"
