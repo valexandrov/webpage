@@ -1,0 +1,1 @@
+VA receives the Layman Award from the University of Nebraska Foundation to support the project <i>"Rational Design of Electrolytes for Next-Generation Vanadium Redox Flow Batteries from First-Principles Modeling."</i>

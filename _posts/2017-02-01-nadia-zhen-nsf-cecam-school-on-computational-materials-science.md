@@ -1,0 +1,1 @@
+Nadia and Jason are both accepted and partially funded by the organizers to attend <a href="https://th.fhi-berlin.mpg.de/meetings/SCMS2017/" target="_blank" rel="noreferrer noopener">NSF/CECAM School on Computational Materials Science in July 2017</a>, Lausanne, Switzerland. Congrats!
