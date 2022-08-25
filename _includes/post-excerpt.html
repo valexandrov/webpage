@@ -10,6 +10,20 @@
 {% endfor %}
 
 <div class="post_excerpt">
+  {% assign date = post.date | default: "" %}
+  {%
+    include post-info.html
+    date=date
+  %}
+
+  {% assign content = post.content | default: "" %}
+  <p>
+    {{ content }}
+  </p>
+</div>
+
+{% comment %}
+<div class="post_excerpt">
   {% assign url = post.url | default: "" %}
   {% assign title = post.title | default: "" %}
   <p>
@@ -31,3 +45,4 @@
     {{ content | strip_html | truncate: 500 }}
   </p>
 </div>
+{% endcomment %}
