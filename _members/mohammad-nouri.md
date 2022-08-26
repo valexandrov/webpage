@@ -1,11 +1,11 @@
 ---
 name: Mohammad Nouri
 image: images/mohammad-nouri.jpg
-description: PhD Student
 role: phd
 aliases:
   - Mohammad Nouri
 links:
+  google-scholar: ahaqZnoAAAAJ
   email: mnouri3@huskers.unl.edu
 ---
 

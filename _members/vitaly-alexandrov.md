@@ -6,8 +6,8 @@ role: pi
 aliases:
   - Vitaly Alexandrov
 links:
-  email: valexandrov2@unl.edu
   google-scholar: yYbV2fIAAAAJ
+  email: valexandrov2@unl.edu
   twitter: vitalyalexandrov
 ---
 
