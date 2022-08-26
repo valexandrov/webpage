@@ -15,7 +15,9 @@ Our research is in the field of theory and simulation of condensed matter and re
 
 ## Ongoing Projects
 
-{% include list.html component="card" data="projects" filters="group: ongoing" %}
+{% include list.html component="card" data="projects" filters="group: ongoing-1" %}
+
+{% include list.html component="card" data="projects" filters="group: ongoing-2" %}
 
 {% include section.html %}
 
