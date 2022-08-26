@@ -1,7 +1,7 @@
 ---
 name: Vitaly Alexandrov
 image: images/vitaly-alexandrov.jpg
-description: Richard L. McNeel Associated Professor
+description: Richard L. McNeel Associate Professor
 role: pi
 aliases:
   - Vitaly Alexandrov
