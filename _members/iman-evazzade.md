@@ -1,6 +1,6 @@
 ---
 name: Iman Evazzade
-image: images/iman-evazzade.jpg
+image: images/iman-evazzade.jpeg
 role: postdoc
 aliases:
   - Iman Evazzade
