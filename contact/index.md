@@ -58,7 +58,7 @@ USA
 {% capture col2 %}
 {%
   include figure.html
-  image="images/contact-2.jpg"
+  image="images/contact-2.png"
   caption="Department of Chemical and Biomolecular Engineering"
 %}
 {% endcapture %}
