@@ -9,6 +9,9 @@ The main goal of our research is to gain fundamental theoretical understanding o
 {:.center}
 {% include section.html full=true %}
 {% include banner.html image="images/IMG_0024_invert.PNG" %}
+
+{% comment %}
+
 {% include section.html %}
 
 # Highlights
@@ -59,3 +62,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   headline="Our Team"
   text=text
 %}
+
+{% endcomment %}
