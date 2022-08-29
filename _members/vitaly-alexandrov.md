@@ -1,6 +1,6 @@
 ---
 name: Vitaly Alexandrov
-image: images/vitaly-alexandrov.jpg
+image: images/vitaly-alexandrov.png
 description: Richard L. McNeel Associate Professor
 role: pi
 aliases:
@@ -11,6 +11,6 @@ links:
   twitter: AlexandrovLab
 ---
 
-Dr. Alexandrov comes to UNL after three years as a research associate at the Pacific Northwest National Laboratory, where he worked on modeling of coupled electron/ion transport dynamics through polycrystalline oxide networks, adsorption phenomena, interfacial electron transfer and selective oxidation of Ni-base alloys.
+Vitaly Alexandrov is Richard L. McNeel Associate Professor in the Department of Chemical and Biomolecular Engineering at the University of Nebraska-Lincoln (UNL). He earned his bachelor’s and master’s degrees from St. Peterburg State University (Russia), and his PhD degree (2009) from Max Planck Institute for Solid State Research (Germany). He then worked as a postdoctoral associate at UC Davis, UC Berkeley, and Pacific Northwest National Laboratory. In 2015 he joined UNL as an Assistant Professor.
 
-Alexandrov earned his bachelor’s and master’s degrees from St. Petersburg State University in Russia, his Ph.D. from Max Planck Institute for Solid State Research/University of Stuttgart in Germany and then did postdoctoral work at the University of California, Davis and the University of California, Berkeley.
+His research is at the intersection of computational materials science and electrochemistry with an emphasis of fundamental understanding of chemical reaction dynamics relevant to energy storage and conversion. Full CV is [here](https://valexandrov.github.io/varg/team/Alexandrov_CV.pdf).
