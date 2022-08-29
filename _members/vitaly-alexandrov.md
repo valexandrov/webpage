@@ -8,7 +8,7 @@ aliases:
 links:
   google-scholar: yYbV2fIAAAAJ
   email: valexandrov2@unl.edu
-  twitter: vitalyalexandrov
+  twitter: AlexandrovLab
 ---
 
 Dr. Alexandrov comes to UNL after three years as a research associate at the Pacific Northwest National Laboratory, where he worked on modeling of coupled electron/ion transport dynamics through polycrystalline oxide networks, adsorption phenomena, interfacial electron transfer and selective oxidation of Ni-base alloys.

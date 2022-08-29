@@ -12,10 +12,10 @@ baseurl: /varg
 links:
   email: valexandrov2@unl.edu
   google-scholar: yYbV2fIAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  #github: your-lab
+  twitter: AlexandrovLab
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 # automatic citations
 auto-cite:
