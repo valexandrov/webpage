@@ -41,6 +41,12 @@ Thank you for being interested in our research! Our work in Alexandrov Research 
   component="portrait"
   filters="role: postdog"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}

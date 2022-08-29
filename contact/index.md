@@ -42,10 +42,9 @@ Our lab is part of the [Department of Chemical and Biomolecular Engineering](htt
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-207 Othmer Hall, 
-1600 Vine St, 
-Lincoln, NE 68508, 
-USA
+207 Othmer Hall  
+1600 Vine St  
+Lincoln, NE 68508, USA
 {:.center}
 
 {% capture col1 %}

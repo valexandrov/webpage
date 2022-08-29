@@ -25,3 +25,7 @@ mascot:
 postdog:
   icon: fas fa-paw
   text: Postdog
+
+alumni:
+  icon: fas fa-award
+  text: Alumni
