@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Team
-Thank you for being interested in our research! Our work in Alexandrov Research Group is based on Shared knowledge and skills, an optimistic, can-do attitude, and mutual respect.
+Thank you for being interested in our research! Our work in Alexandrov Research Group is based on shared knowledge and skills, an optimistic, can-do attitude, and mutual respect.
 
 
 {% include section.html %}
@@ -49,6 +49,8 @@ Thank you for being interested in our research! Our work in Alexandrov Research 
 %}
 {:.center}
 
+{% comment %}
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -62,6 +64,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   style="button"
 %}
 {:.center}
+
+{% endcomment %}
 
 {% include section.html %}
 
