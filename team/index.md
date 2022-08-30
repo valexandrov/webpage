@@ -79,16 +79,16 @@ Gallery
   style="square"
 
   image1="images/gallery-1.jpg"
-  link1="https://valexandrov.github.io/varg/images/gallery-1.jpg"
+  link1="https://valexandrov.github.io/webpage/images/gallery-1.jpg"
 
   image2="images/gallery-2.jpg"
-  link2="https://valexandrov.github.io/varg/images/gallery-2.jpg"
+  link2="https://valexandrov.github.io/webpage/images/gallery-2.jpg"
 
   image3="images/gallery-3.jpg"
-  link3="https://valexandrov.github.io/varg/images/gallery-3.jpg"
+  link3="https://valexandrov.github.io/webpage/images/gallery-3.jpg"
 
   image4="images/gallery-4.gif"
-  link4="https://valexandrov.github.io/varg/images/gallery-4.gif"
+  link4="https://valexandrov.github.io/webpage/images/gallery-4.gif"
 
   image5="images/photo.jpg"
   link5=""
