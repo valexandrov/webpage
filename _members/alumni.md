@@ -1,5 +1,6 @@
 ---
 name: Alumni
+image: images/alumni.jpeg
 role: alumni
 aliases:
   -  
