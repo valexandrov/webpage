@@ -49,13 +49,11 @@ Thank you for being interested in our research! Our work in Alexandrov Research 
 %}
 {:.center}
 
-{% comment %}
-
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Prospective graduate students are welcome to send CV to Prof. Vitaly Alexandrov for more information about ongoing research projects and availability of assistantships. 
 
+{% comment %}
 {%
   include link.html
   icon="fas fa-hands-helping"
@@ -63,16 +61,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   link="join"
   style="button"
 %}
-{:.center}
-
 {% endcomment %}
+{:.center}
 
 {% include section.html %}
 
 ## Gallery
-
-Gallery
-{:.center}
 
 {%
   include gallery.html
@@ -87,14 +81,12 @@ Gallery
   image3="images/gallery-3.jpg"
   link3="https://valexandrov.github.io/webpage/images/gallery-3.jpg"
 
-  image4="images/gallery-4.gif"
-  link4="https://valexandrov.github.io/webpage/images/gallery-4.gif"
+  image4="images/gallery-4.jpg"
+  link4="https://valexandrov.github.io/webpage/images/gallery-4.jpg"
 
-  image5="images/photo.jpg"
-  link5=""
-  tooltip5="Cool Institute"
+  image5="images/gallery-5.gif"
+  link5="https://valexandrov.github.io/webpage/images/gallery-5.gif"
 
-  image6="images/photo.jpg"
-  link6=""
-  tooltip6="Cool Initiative"
+  image6="images/gallery-6.jpg"
+  link6="https://valexandrov.github.io/webpage/images/gallery-6.jpg"
 %}
