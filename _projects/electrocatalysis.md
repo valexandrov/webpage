@@ -11,7 +11,7 @@ description:
   height="200px"
 %}
 
-Our research in computational electrocatalysis focuses on developing fundamental understanding of atomistic mechanisms underlying activity, stability, and selectivity of water-splitting electrocatalysts. We are particularly interested in how structure, composition and dynamics of the electrode and electrical double layer affect catalytic properties. To this end, we are employing a variety of computational tools such as density-functional-theory based thermodynamics and molecular dynamics, electronic-structure and quantum-transport calculations. We are also utilizing the methods of machine learning to assist computational screening to identify promising catalytic materials. Our research group is always engaged into collaborative projects with experimental labs in US and Europe.
+Our research in computational electrocatalysis focuses on developing fundamental understanding of atomistic mechanisms underlying activity, stability, and selectivity of water-splitting electrocatalysts. We are particularly interested in how structure, composition and dynamics of the electrode and electrical double layer affect catalytic properties. To this end, we are employing a variety of computational tools such as density-functional-theory based thermodynamics and molecular dynamics, electronic-structure and quantum-transport calculations. We are also utilizing the methods of machine learning to assist computational screening to identify promising catalytic materials. 
 
 Funding Sources: NSF CAREER 
 
