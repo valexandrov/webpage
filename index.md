@@ -4,7 +4,7 @@ title: Home
 
 # Computational Electrochemistry
 
-The main goal of our research is to gain fundamental theoretical understanding of materials properties and how they manifest in a variety of energy and catalysis applications. We are especially interested in the mechanistic interplay between structure, stability and reactivity of electrochemical interfaces playing a central role in electrocatalysis and batteries. To this end, we employ a range of thermodynamic, quantum and statistical based computational approaches such as electronic-structure theory, ab initio molecular dynamics and free energy simulations.
+The main goal of our research is to gain fundamental theoretical understanding of materials properties and how they manifest in a variety of energy and catalysis applications. We are especially interested in the mechanistic interplay between structure, stability and reactivity of electrochemical interfaces playing a central role in electrocatalysis and batteries. In our research activities, we employ a range of thermodynamic, quantum and statistical based computational approaches such as electronic-structure theory, ab initio molecular dynamics and free energy simulations.
 
 {:.center}
 {% include section.html full=true %}
