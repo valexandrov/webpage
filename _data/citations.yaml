@@ -1,5 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1002/cctc.202200932
+  title: On the Role of Interfacial Water Dynamics for Electrochemical Stability of
+    RuO2 and IrO2
+  authors:
+  - Iman Evazzade
+  - Alexandra Zagalskaya
+  - Vitaly Alexandrov
+  publisher: ChemCatChem
+  date: '2022-09-26'
+  link: https://doi.org/gqprmp
+  image: 
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/cctc.202200932.pdf
+
 - id: doi:10.1021/acs.jpcc.2c03117
   title: Structure-Dependent Electrical Double-Layer Capacitances of the Basal Plane
     Pd(<i>hkl</i>) Electrodes in HClO<sub>4</sub>
