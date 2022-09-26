@@ -1,3 +1,9 @@
+- id: doi:10.1002/cctc.202200932
+  image: 
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/cctc.202200932.pdf
+
 - id: doi:10.1021/acs.jpcc.2c03117
   image: https://pubs.acs.org/cms/10.1021/acs.jpcc.2c03117/asset/images/medium/jp2c03117_0006.gif
   extra-links:
