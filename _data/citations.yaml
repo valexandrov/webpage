@@ -10,11 +10,10 @@
   publisher: ChemCatChem
   date: '2022-09-26'
   link: https://doi.org/10.1002/cctc.202200932
-  image: 
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/788012ef-d1fa-4781-a38b-0df128965d71/cctc202200932-toc-0001-m.jpg
   extra-links:
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/cctc.202200932.pdf
-
 - id: doi:10.1021/acs.jpcc.2c03117
   title: Structure-Dependent Electrical Double-Layer Capacitances of the Basal Plane
     Pd(<i>hkl</i>) Electrodes in HClO<sub>4</sub>
