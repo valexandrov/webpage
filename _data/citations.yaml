@@ -1,5 +1,27 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.nanoms.2022.09.003
+  title: Alkali metal cations change the hydrogen evolution reaction mechanisms at
+    Pt electrodes in alkaline media
+  authors:
+  - Yamen Taji
+  - Alexandra Zagalskaya
+  - Iman Evazzade
+  - Sebastian Watzele
+  - Kun-Ting Song
+  - Song Xue
+  - Christian Schott
+  - Batyr Garlyyev
+  - Vitaly Alexandrov
+  - Elena Gubanova
+  - Aliaksandr S. Bandarenka
+  publisher: Nano Materials Science
+  date: '2022-10-01'
+  link: https://doi.org/gq5wbz
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589965122000514-gr1_lrg.jpg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/j.nanoms.2022.09.003.pdf
 - id: doi:10.1002/cctc.202200932
   title: On the Role of Interfacial Water Dynamics for Electrochemical Stability of
     RuO2 and IrO2
