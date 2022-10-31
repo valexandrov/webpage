@@ -1,3 +1,9 @@
+- id: doi:10.1016/j.nanoms.2022.09.003
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589965122000514-gr1_lrg.jpg
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/j.nanoms.2022.09.003.pdf
+
 - id: doi:10.1002/cctc.202200932
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/788012ef-d1fa-4781-a38b-0df128965d71/cctc202200932-toc-0001-m.jpg
   extra-links:
