@@ -1,5 +1,25 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.electacta.2022.141443
+  title: 'Metal dissolution from first principles: Potential-dependent kinetics and
+    charge transfer'
+  authors:
+  - Shubham Sharma
+  - Alexandra Zagalskaya
+  - Stephen E. Weitzner
+  - Lisa Eggart
+  - Seongkoo Cho
+  - Tim Hsu
+  - Xiao Chen
+  - Joel B. Varley
+  - Vitaly Alexandrov
+  - Christine A. Orme
+  - Tuan Anh Pham
+  - Brandon C. Wood
+  publisher: Electrochimica Acta
+  date: '2022-11-01'
+  link: https://doi.org/gq64d9
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0013468622016000-ga1_lrg.jpg
 - id: doi:10.1016/j.nanoms.2022.09.003
   title: Alkali metal cations change the hydrogen evolution reaction mechanisms at
     Pt electrodes in alkaline media
