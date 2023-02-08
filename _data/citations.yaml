@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acs.jpcc.2c08222
+  title: 'Mechanisms of Degradation of Na<sub>2</sub>Ni[Fe(CN)<sub>6</sub>] Functional
+    Electrodes in Aqueous Media: A Combined Theoretical and Experimental Study'
+  authors:
+  - Xaver Lamprecht
+  - Iman Evazzade
+  - Iago Ungerer
+  - Ludek Hromadko
+  - Jan M. Macak
+  - Aliaksandr S. Bandarenka
+  - Vitaly Alexandrov
+  publisher: The Journal of Physical Chemistry C
+  date: '2023-01-30'
+  link: https://doi.org/grq964
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.2c08222/asset/images/large/jp2c08222_0008.jpeg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/acs.jpcc.2c08222.pdf
 - id: doi:10.1016/j.electacta.2022.141443
   title: 'Metal dissolution from first principles: Potential-dependent kinetics and
     charge transfer'
@@ -20,6 +38,9 @@
   date: '2022-11-01'
   link: https://doi.org/gq64d9
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0013468622016000-ga1_lrg.jpg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/j.electacta.2022.141443.pdf
 - id: doi:10.1016/j.nanoms.2022.09.003
   title: Alkali metal cations change the hydrogen evolution reaction mechanisms at
     Pt electrodes in alkaline media
@@ -52,7 +73,7 @@
   publisher: ChemCatChem
   date: '2022-09-26'
   link: https://doi.org/10.1002/cctc.202200932
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/788012ef-d1fa-4781-a38b-0df128965d71/cctc202200932-toc-0001-m.jpg
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d7e95c7b-5632-40ab-b84d-8da6aea46ece/cctc202200932-toc-0001-m.jpg
   extra-links:
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/cctc.202200932.pdf
@@ -137,7 +158,7 @@
   publisher: Angewandte Chemie International Edition
   date: '2021-05-06'
   link: https://doi.org/gh75sr
-  image: https://onlinelibrary.wiley.com/cms/asset/02c3862e-2284-4c98-aea8-95db6128cd71/anie202100337-fig-0004-m.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/ab50c403-ca8c-499b-85b2-48e6d924513b/anie202100337-toc-0001-m.jpg
   extra-links:
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/anie.202100337.pdf
@@ -398,7 +419,8 @@
   publisher: Journal of The Electrochemical Society
   date: '2018-04-10'
   link: https://doi.org/gdkfr4
-  image: null
+  image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1945-7111/165/5/A1099/revision1/A1099fig1.jpeg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1676500747&Signature=VggG0ZGxmZK2UnF5ZQOJFH0I2wQ%
+    https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1945-7111/165/5/A1099/revision1/A1099fig1.jpeg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1676500747&Signature=VggG0ZGxmZK2UnF5ZQOJFH0I2wQ%3D3D
   extra-links:
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/2.1251805jes.pdf
