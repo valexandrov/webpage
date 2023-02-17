@@ -1,3 +1,9 @@
+- id: doi:10.1038/s41467-023-36318-1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36318-1/MediaObjects/41467_2023_36318_Fig2_HTML.png?as=webp
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/s41467-023-36318-1.pdf
+
 - id: doi:10.1021/acs.jpcc.2c08222
   image: https://pubs.acs.org/cms/10.1021/acs.jpcc.2c08222/asset/images/large/jp2c08222_0008.jpeg
   extra-links:
