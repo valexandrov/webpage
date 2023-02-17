@@ -1,5 +1,22 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1038/s41467-023-36318-1
+  title: Coupling nitrate capture with ammonia production through bifunctional redox-electrodes
+  authors:
+  - Kwiyong Kim
+  - Alexandra Zagalskaya
+  - Jing Lian Ng
+  - Jaeyoung Hong
+  - Vitaly Alexandrov
+  - Tuan Anh Pham
+  - Xiao Su
+  publisher: Nature Communications
+  date: '2023-02-14'
+  link: https://doi.org/grsmjs
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36318-1/MediaObjects/41467_2023_36318_Fig2_HTML.png?as=webp
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/s41467-023-36318-1.pdf
 - id: doi:10.1021/acs.jpcc.2c08222
   title: 'Mechanisms of Degradation of Na<sub>2</sub>Ni[Fe(CN)<sub>6</sub>] Functional
     Electrodes in Aqueous Media: A Combined Theoretical and Experimental Study'
