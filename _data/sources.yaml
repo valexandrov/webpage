@@ -1,3 +1,9 @@
+- id: doi:10.1002/cctc.202300055
+  image: 
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/cctc.202300055.pdf
+
 - id: doi:10.1038/s41467-023-36318-1
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36318-1/MediaObjects/41467_2023_36318_Fig2_HTML.png?as=webp
   extra-links:
