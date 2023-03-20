@@ -1,5 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1002/cctc.202300055
+  title: "Computational Discovery of Active and Selective Metal\u2010Nitrogen\u2010\
+    Graphene Catalysts for Electrooxidation of Water to H2O2"
+  authors:
+  - Payal Chaudhary
+  - Iman Evazzade
+  - Rodion Belosludov
+  - Vitaly Alexandrov
+  publisher: ChemCatChem
+  date: '2023-03-16'
+  link: https://doi.org/grx2wc
+  image: null
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/cctc.202300055.pdf
 - id: doi:10.1038/s41467-023-36318-1
   title: Coupling nitrate capture with ammonia production through bifunctional redox-electrodes
   authors:
