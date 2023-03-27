@@ -97,7 +97,7 @@
     link: https://valexandrov.github.io/webpage/papers/j.nanoms.2022.09.003.pdf
 - id: doi:10.1002/cctc.202200932
   title: On the Role of Interfacial Water Dynamics for Electrochemical Stability of
-    RuO2 and IrO2
+    RuO<sub>2</sub> and IrO<sub>2</sub>
   authors:
   - Iman Evazzade
   - Alexandra Zagalskaya
@@ -243,7 +243,7 @@
     link: https://valexandrov.github.io/webpage/papers/acsaem.0c00972.pdf
 - id: doi:10.1103/PhysRevApplied.14.014068
   title: Effects of Strain and Film Thickness on the Stability of the Rhombohedral
-    Phase of
+    Phase of HfO<sub>2</sub>
   authors:
   - Yuke Zhang
   - Qiong Yang
@@ -258,7 +258,7 @@
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/PhysRevApplied.14.014068.pdf
 - id: doi:10.1021/acs.jpclett.0c00335
-  title: Mechanistic Study of IrO <sub>2</sub> Dissolution during the Electrocatalytic
+  title: Mechanistic Study of IrO<sub>2</sub> Dissolution during the Electrocatalytic
     Oxygen Evolution Reaction
   authors:
   - Alexandra Zagalskaya
@@ -272,7 +272,7 @@
     link: https://valexandrov.github.io/webpage/papers/acs.jpclett.0c00335.pdf
 - id: doi:10.1021/acscatal.9b05544
   title: Role of Defects in the Interplay between Adsorbate Evolving and Lattice Oxygen
-    Mechanisms of the Oxygen Evolution Reaction in RuO <sub>2</sub> and IrO <sub>2</sub>
+    Mechanisms of the Oxygen Evolution Reaction in RuO<sub>2</sub> and IrO<sub>2</sub>
   authors:
   - Alexandra Zagalskaya
   - Vitaly Alexandrov
@@ -344,7 +344,7 @@
     link: https://valexandrov.github.io/webpage/papers/PhysRevApplied.12.024044.pdf
 - id: doi:10.1021/acs.jpcc.9b03418
   title: Role of Dissolution Intermediates in Promoting Oxygen Evolution Reaction
-    at RuO <sub>2</sub> (110) Surface
+    at RuO<sub>2</sub> (110) Surface
   authors:
   - Konstantin Klyukin
   - Alexandra Zagalskaya
@@ -357,8 +357,8 @@
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/acs.jpcc.9b03418.pdf
 - id: doi:10.1021/acsami.9b06010
-  title: Ab Initio Modeling of Transition Metal Dissolution from the LiNi <sub>0.5</sub>
-    Mn <sub>1.5</sub> O <sub>4</sub> Cathode
+  title: Ab Initio Modeling of Transition Metal Dissolution from the LiNi<sub>0.5</sub>
+    Mn<sub>1.5</sub>O<sub>4</sub> Cathode
   authors:
   - Nadia N. Intan
   - Konstantin Klyukin
@@ -428,7 +428,7 @@
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/acs.jpcc.8b03743.pdf
 - id: doi:10.1021/acsami.8b05864
-  title: Ab Initio Metadynamics Study of the VO <sub>2</sub> <sup>+</sup> /VO <sup>2+</sup>
+  title: Ab Initio Metadynamics Study of the VO<sub>2</sub><sup>+</sup>/VO<sup>2+</sup>
     Redox Reaction Mechanism at the Graphite Edge/Water Interface
   authors:
   - Zhen Jiang
@@ -443,7 +443,7 @@
     link: https://valexandrov.github.io/webpage/papers/acsami.8b05864.pdf
 - id: doi:10.1149/2.1251805jes
   title: Theoretical Insights into Oxidation States of Transition Metals at (001)
-    and (111) LiNi <sub>0.5</sub> Mn <sub>1.5</sub> O <sub>4</sub> Spinel Surfaces
+    and (111) LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Spinel Surfaces
   authors:
   - Nadia N. Intan
   - Konstantin Klyukin
@@ -477,7 +477,7 @@
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/acscatal.7b04347.pdf
 - id: doi:10.1021/acs.nanolett.7b04444
-  title: Tunneling Hot Spots in Ferroelectric SrTiO <sub>3</sub>
+  title: Tunneling Hot Spots in Ferroelectric SrTiO<sub>3</sub>
   authors:
   - Haidong Lu
   - Daesu Lee
@@ -531,7 +531,7 @@
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/c7cp02350b.pdf
 - id: doi:10.1021/acs.jpcc.7b02777
-  title: 'CO <sub>2</sub> Adsorption and Reactivity on Rutile TiO <sub>2</sub> (110)
+  title: 'CO<sub>2</sub> Adsorption and Reactivity on Rutile TiO<sub>2</sub>(110)
     in Water: An <i>Ab Initio</i> Molecular Dynamics Study'
   authors:
   - Konstantin Klyukin
@@ -545,7 +545,7 @@
     link: https://valexandrov.github.io/webpage/papers/acs.jpcc.7b02777.pdf
 - id: doi:10.1103/PhysRevB.95.035301
   title: Effect of intrinsic point defects on ferroelectric polarization behavior
-    of
+    of SrTiO<sub>3</sub>
   authors:
   - Konstantin Klyukin
   - Vitaly Alexandrov
