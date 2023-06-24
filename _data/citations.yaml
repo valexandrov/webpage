@@ -1,5 +1,18 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acs.jpcc.3c01727
+  title: "Corrosion of Electrochemical Energy Materials: Stability Analyses Beyond Pourbaix Diagrams"
+  authors:
+  - Alexandra Zagalskaya
+  - Payal Chaudhary
+  - Vitaly Alexandrov
+  publisher: The Journal of Physical Chemistry C
+  date: '2023-06-24'
+  link: https://doi.org/10.1021/acs.jpcc.3c01727
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.3c01727/asset/images/large/jp3c01727_0010.jpeg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/acs.jpcc.3c01727.pdf
 - id: doi:10.1021/acs.jpcc.3c00207
   title: Electron Tunneling at Electrocatalytic Interfaces
   authors:
