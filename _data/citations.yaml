@@ -1,7 +1,21 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.coelec.2023.101352
+  title: Mechanistic Understanding of Electrode Corrosion Driven by Water Electrolysis
+  authors:
+  - Alexandra Zagalskaya
+  - Mohammad Reza Nouri
+  - Vitaly Alexandrov
+  publisher: Current Opinion in Electrochemistry
+  date: '2023-07-01'
+  link: https://doi.org/gshkwc
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S245191032300145X-gr1.jpg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/j.coelec.2023.101352.pdf
 - id: doi:10.1021/acs.jpcc.3c01727
-  title: "Corrosion of Electrochemical Energy Materials: Stability Analyses Beyond Pourbaix Diagrams (Perspective; Cover Art)"
+  title: 'Corrosion of Electrochemical Energy Materials: Stability Analyses Beyond
+    Pourbaix Diagrams (Perspective; Cover Art)'
   authors:
   - Alexandra Zagalskaya
   - Payal Chaudhary
@@ -41,7 +55,7 @@
   publisher: ChemCatChem
   date: '2023-03-16'
   link: https://doi.org/grx2wc
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/8332a213-0ac1-43c0-b895-7d90fc0d5c1d/cctc202300055-toc-0001-m.jpg
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/70be5d84-06c5-4e8f-b41d-277c2940d40c/cctc202300055-toc-0001-m.jpg
   extra-links:
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/cctc.202300055.pdf
