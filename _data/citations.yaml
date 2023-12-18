@@ -1,5 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1002/celc.202300659
+  title: "Strain\u2010Dependent Activity\u2010Stability Relations in RuO<sub>2</sub>\
+    \ and IrO<sub>2</sub> Oxygen Evolution Catalysts"
+  authors:
+  - Payal Chaudhary
+  - Alexandra Zagalskaya
+  - Herbert Over
+  - Vitaly Alexandrov
+  publisher: ChemElectroChem
+  date: '2023-12-12'
+  link: https://doi.org/gs9dw2
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/88b7562a-9483-4af6-b557-a682d2f90c9f/celc202300659-toc-0001-m.jpg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/celc.202300659.pdf
 - id: doi:10.1016/j.coelec.2023.101352
   title: Mechanistic Understanding of Electrode Corrosion Driven by Water Electrolysis
   authors:
