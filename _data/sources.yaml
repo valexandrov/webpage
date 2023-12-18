@@ -1,3 +1,9 @@
+- id: doi:10.1002/celc.202300659
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/88b7562a-9483-4af6-b557-a682d2f90c9f/celc202300659-toc-0001-m.jpg
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/celc.202300659.pdf
+
 - id: doi:10.1016/j.coelec.2023.101352
   image: https://ars.els-cdn.com/content/image/1-s2.0-S245191032300145X-gr1.jpg
   extra-links:
