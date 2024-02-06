@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/jacs.3c11403
+  title: Impact of Pt(<i>hkl</i>) Electrode Surface Structure on the Electrical Double
+    Layer Capacitance
+  authors:
+  - Song Xue
+  - Payal Chaudhary
+  - Mohammad Reza Nouri
+  - Elena Gubanova
+  - Batyr Garlyyev
+  - Vitaly Alexandrov
+  - Aliaksandr S. Bandarenka
+  publisher: Journal of the American Chemical Society
+  date: '2024-02-05'
+  link: https://doi.org/gtg4fh
+  image: https://pubs.acs.org/cms/10.1021/jacs.3c11403/asset/images/medium/ja3c11403_0007.gif
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/JACS2024.pdf
 - id: doi:10.1002/celc.202300659
   title: "Strain\u2010Dependent Activity\u2010Stability Relations in RuO<sub>2</sub>\
     \ and IrO<sub>2</sub> Oxygen Evolution Catalysts"
