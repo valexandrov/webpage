@@ -1,3 +1,9 @@
+- id: doi:10.1021/acs.jpcc.4c00531
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.4c00531/asset/images/large/jp4c00531_0006.jpeg
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/acs.jpcc.4c00531.pdf
+
 - id: doi:10.1021/jacs.3c11403
   image: https://pubs.acs.org/cms/10.1021/jacs.3c11403/asset/images/medium/ja3c11403_0007.gif
   extra-links:
