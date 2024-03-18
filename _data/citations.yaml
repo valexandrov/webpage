@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acs.jpcc.4c00531
+  title: "Influence of Alkali Metal Cations on the Oxygen Reduction Activity of\
+    \ Pt<sub>5</sub>Y and Pt<sub>5</sub>Gd Alloys"
+  authors:
+  - Kun-Ting Song
+  - Alexandra Zagalskaya
+  - Christian M. Schott
+  - Peter M. Schneider
+  - Batyr Garlyyev
+  - Vitaly Alexandrov
+  - Aliaksandr S. Bandarenka
+  publisher: The Journal of Physical Chemistry C
+  date: '2024-03-18'
+  link: https://doi.org/10.1021/acs.jpcc.4c00531
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.4c00531/asset/images/large/jp4c00531_0006.jpeg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/acs.jpcc.4c00531.pdf
 - id: doi:10.1021/jacs.3c11403
   title: Impact of Pt(<i>hkl</i>) Electrode Surface Structure on the Electrical Double
     Layer Capacitance
