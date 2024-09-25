@@ -1,1 +1,1 @@
-Congratulation to Mohammad on his successful PhD defense!
+Congratulations to Mohammad on his successful PhD defense!
