@@ -1,8 +1,31 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acs.chemrev.3c00806
+  title: How to Assess and Predict Electrical Double Layer Properties. Implications
+    for Electrocatalysis
+  authors:
+  - Christian M. Schott
+  - Peter M. Schneider
+  - Kun-Ting Song
+  - Haiting Yu
+  - "Rainer G\xF6tz"
+  - Felix Haimerl
+  - Elena Gubanova
+  - Jian Zhou
+  - Thorsten O. Schmidt
+  - Qiwei Zhang
+  - Vitaly Alexandrov
+  - Aliaksandr S. Bandarenka
+  publisher: Chemical Reviews
+  date: '2024-11-11'
+  link: https://doi.org/g8qv32
+  image: https://pubs.acs.org/cms/10.1021/acs.chemrev.3c00806/asset/images/large/cr3c00806_0042.jpeg
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/acs.chemrev.3c00806.pdf
 - id: doi:10.1021/acs.jpcc.4c00531
-  title: "Influence of Alkali Metal Cations on the Oxygen Reduction Activity of\
-    \ Pt<sub>5</sub>Y and Pt<sub>5</sub>Gd Alloys"
+  title: Influence of Alkali Metal Cations on the Oxygen Reduction Activity of Pt<sub>5</sub>Y
+    and Pt<sub>5</sub>Gd Alloys
   authors:
   - Kun-Ting Song
   - Alexandra Zagalskaya
