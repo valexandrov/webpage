@@ -1,5 +1,17 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acscatal.5c00478
+  title: 'Mechanism of Bicarbonate-Enhanced Solar Oxidation of Water to Hydrogen Peroxide over BiVO<sub>4</sub>'
+  authors:
+  - Payal Chaudhary
+  - Vitaly Alexandrov
+  publisher: American Chemical Society
+  date: '2025-05-13'
+  link: https://doi.org/10.1021/acscatal.5c00478
+  image: https://pubs.acs.org/cms/10.1021/acscatal.5c00478/asset/images/medium/cs5c00478_0007.gif
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/chaudhary-alexandrov-2025-mechanism-of-bicarbonate-enhanced-solar-oxidation-of-water-to-hydrogen-peroxide-over-bivo4.pdf
 - id: doi:10.1021/acs.chemrev.3c00806
   title: How to Assess and Predict Electrical Double Layer Properties. Implications
     for Electrocatalysis
