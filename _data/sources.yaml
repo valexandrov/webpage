@@ -1,3 +1,9 @@
+- id: doi:10.1021/acscatal.5c00478
+  image: https://pubs.acs.org/cms/10.1021/acscatal.5c00478/asset/images/medium/cs5c00478_0007.gif
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/chaudhary-alexandrov-2025-mechanism-of-bicarbonate-enhanced-solar-oxidation-of-water-to-hydrogen-peroxide-over-bivo4.pdf
+
 - id: doi:10.1021/acs.chemrev.3c00806
   image: https://pubs.acs.org/cms/10.1021/acs.chemrev.3c00806/asset/images/large/cr3c00806_0042.jpeg
   extra-links:
