@@ -1,1 +1,1 @@
-Great to see our collaborative paper with Prof. Moreno-Hernandez from Duke University published at Energy & Environmental Science.
+Great to see our collaborative paper with Prof. Moreno-Hernandez from Duke University published in Energy & Environmental Science.
