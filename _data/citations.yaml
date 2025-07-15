@@ -1,7 +1,25 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1039/D5EE02196K
+  title: Understanding the Reaction Energetics of Oxygen-evolving Electrocatalysts
+  authors:
+  - Ziqing Lin
+  - Payal Chaudhary
+  - S. Avery Vigil
+  - Matteo Fratarcangeli
+  - Conner J. Soderstedt
+  - Vitaly Alexandrov
+  - Ivan A. Moreno-Hernandez
+  publisher: Energy &amp; Environmental Science
+  date: '2025-01-01'
+  link: https://doi.org/g9s9f7
+  image: null
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/d5ee02196k.pdf
 - id: doi:10.1021/acscatal.5c00478
-  title: 'Mechanism of Bicarbonate-Enhanced Solar Oxidation of Water to Hydrogen Peroxide over BiVO<sub>4</sub>'
+  title: Mechanism of Bicarbonate-Enhanced Solar Oxidation of Water to Hydrogen Peroxide
+    over BiVO<sub>4</sub>
   authors:
   - Payal Chaudhary
   - Vitaly Alexandrov
