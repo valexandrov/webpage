@@ -1,5 +1,11 @@
+- id: doi:10.1039/D5SC06242J
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5SC06242J&imageInfo.ImageIdentifier.Year=2025
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/d5sc06242j.pdf
+
 - id: doi:10.1039/D5EE02196K
-  image:
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5EE02196K&imageInfo.ImageIdentifier.Year=2025
   extra-links:
     - type: pdf
       link: https://valexandrov.github.io/webpage/papers/d5ee02196k.pdf
