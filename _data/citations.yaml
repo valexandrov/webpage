@@ -1,5 +1,27 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1039/D5SC06242J
+  title: Effect of metal substitution on the intrinsic activity of iridium-based oxides
+    for the oxygen evolution reaction
+  authors:
+  - Yinghao Xu
+  - Yi-Hsuan Wu
+  - Paula M. Abdala
+  - Connor Sherwin
+  - Veronica Celorrio
+  - Diana Piankova
+  - Payal Chaudhary
+  - Vitaly Alexandrov
+  - Agnieszka Kierzkowska
+  - Denis A. Kuznetsov
+  - "Christoph R. M\xFCller"
+  publisher: Chemical Science
+  date: '2025-01-01'
+  link: https://doi.org/g99dsq
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5SC06242J&imageInfo.ImageIdentifier.Year=2025
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/d5sc06242j.pdf
 - id: doi:10.1039/D5EE02196K
   title: Understanding the Reaction Energetics of Oxygen-evolving Electrocatalysts
   authors:
@@ -13,7 +35,7 @@
   publisher: Energy &amp; Environmental Science
   date: '2025-07-11'
   link: https://doi.org/g9s9f7
-  image: null
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5EE02196K&imageInfo.ImageIdentifier.Year=2025
   extra-links:
   - type: pdf
     link: https://valexandrov.github.io/webpage/papers/d5ee02196k.pdf
