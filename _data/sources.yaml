@@ -1,3 +1,9 @@
+- id: doi:10.1021/acs.jpcc.5c07557
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.5c07557/asset/images/medium/jp5c07557_0009.gif
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/electrochemical-and-computational-insights-into-lithium-nucleation-on-single-crystal-copper-for-anode-free-li-metal.pdf
+      
 - id: doi:10.1039/D5SC06242J
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5SC06242J&imageInfo.ImageIdentifier.Year=2025
   extra-links:
