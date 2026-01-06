@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acs.jpcc.5c07557
+  title: Electrochemical and Computational Insights into Lithium Nucleation on Single-Crystal
+    Copper for Anode-Free Li-Metal Batteries
+  authors:
+  - "Katarina Cicvari\u0107"
+  - Lars Mannich
+  - Dmitrii Blum
+  - Wang Hu
+  - Susana Suttor
+  - Vitaly Alexandrov
+  - Aliaksandr S. Bandarenka
+  publisher: The Journal of Physical Chemistry C
+  date: '2026-01-06'
+  link: https://doi.org/hbhxs9
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.5c07557/asset/images/medium/jp5c07557_0009.gif
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/electrochemical-and-computational-insights-into-lithium-nucleation-on-single-crystal-copper-for-anode-free-li-metal.pdf
 - id: doi:10.1039/D5SC06242J
   title: Effect of metal substitution on the intrinsic activity of iridium-based oxides
     for the oxygen evolution reaction
