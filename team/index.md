@@ -75,8 +75,8 @@ Prospective graduate students are welcome to send CV to Prof. Vitaly Alexandrov 
   image1="images/gallery-1.jpg"
   link1="https://valexandrov.github.io/webpage/images/gallery-1.jpg"
 
-  image2="images/gallery-2.jpg"
-  link2="https://valexandrov.github.io/webpage/images/gallery-2.jpg"
+  image2="images/gallery-2.jpeg"
+  link2="https://valexandrov.github.io/webpage/images/gallery-2.jpeg"
 
   image3="images/gallery-3.jpg"
   link3="https://valexandrov.github.io/webpage/images/gallery-3.jpg"
@@ -87,8 +87,8 @@ Prospective graduate students are welcome to send CV to Prof. Vitaly Alexandrov 
   image5="images/gallery-5.jpg"
   link5="https://valexandrov.github.io/webpage/images/gallery-5.jpg"
 
-  image6="images/gallery-6.jpg"
-  link6="https://valexandrov.github.io/webpage/images/gallery-6.jpg"
+  image6="images/gallery-6.jpeg"
+  link6="https://valexandrov.github.io/webpage/images/gallery-6.jpeg"
 
   image7="images/gallery-7.jpeg"
   link7="https://valexandrov.github.io/webpage/images/gallery-7.jpeg"
