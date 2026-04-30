@@ -1,3 +1,9 @@
+- id: doi:10.1021/acs.jpcc.6c01270
+  image: https://pubs.acs.org/cms/10.1021/jpccck.2026.130.issue-13/asset/19db50fd-3519-b50f-8351-db50fd83519d/jpccck.2026.130.issue-13.largecover.jpg
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/degradation-of-electrochemical-materials-in-energy-conversion-and-storage.pdf
+
 - id: doi:10.1039/D6TA00180G
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D6TA00180G&imageInfo.ImageIdentifier.Year=2026
   extra-links:
