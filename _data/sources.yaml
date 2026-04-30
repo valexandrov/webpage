@@ -1,3 +1,9 @@
+- id: doi:10.1039/D6TA00180G
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D6TA00180G&imageInfo.ImageIdentifier.Year=2026
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/JMatChemA2026.pdf
+
 - id: doi:10.1021/acs.jpcc.5c07557
   image: https://pubs.acs.org/cms/10.1021/acs.jpcc.5c07557/asset/images/medium/jp5c07557_0009.gif
   extra-links:
