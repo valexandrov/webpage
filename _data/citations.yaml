@@ -1,5 +1,22 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1039/D6TA00180G
+  title: Electrochemical and computational insights into lithium nucleation at Ni(111)
+    and Cu(111) surfaces for anode-free Li-metal batteries
+  authors:
+  - "Katarina Cicvari\u0107"
+  - Lars Mannich
+  - Susana Suttor
+  - Wang Hu
+  - Vitaly Alexandrov
+  - Aliaksandr S. Bandarenka
+  publisher: Journal of Materials Chemistry A
+  date: '2026-01-01'
+  link: https://doi.org/hbzx5x
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D6TA00180G&imageInfo.ImageIdentifier.Year=2026
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/JMatChemA2026.pdf
 - id: doi:10.1021/acs.jpcc.5c07557
   title: Electrochemical and Computational Insights into Lithium Nucleation on Single-Crystal
     Copper for Anode-Free Li-Metal Batteries
