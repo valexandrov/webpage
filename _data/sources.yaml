@@ -1,3 +1,9 @@
+- id: doi:10.1149/2.F06262IF
+  image: https://cms.iopscience.org/14462714-d891-11e9-b831-037d18333577/journal_cover?guest=true
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/Chaudhary_2026_Electrochem._Soc._Interface_35_37.pdf
+
 - id: doi:10.1021/acs.jpcc.6c01270
   image: https://pubs.acs.org/cms/10.1021/jpccck.2026.130.issue-13/asset/19db50fd-3519-b50f-8351-db50fd83519d/jpccck.2026.130.issue-13.largecover.jpg
   extra-links:
