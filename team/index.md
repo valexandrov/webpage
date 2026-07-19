@@ -51,7 +51,7 @@ Thank you for being interested in our research! Our work in Alexandrov Research 
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Prospective graduate students are welcome to send CV to Prof. Vitaly Alexandrov for more information about ongoing research projects and availability of assistantships. 
+Prospective graduate students are welcome to send CV to Prof. Vitaly Alexandrov for more information about ongoing research projects and availability of assistantships.
 
 {% comment %}
 {%
@@ -78,18 +78,21 @@ Prospective graduate students are welcome to send CV to Prof. Vitaly Alexandrov 
   image2="images/gallery-2.jpeg"
   link2="https://valexandrov.github.io/webpage/images/gallery-2.jpeg"
 
-  image3="images/gallery-3.jpg"
-  link3="https://valexandrov.github.io/webpage/images/gallery-3.jpg"
+  image3="images/gallery-3.jpeg"
+  link3="https://valexandrov.github.io/webpage/images/gallery-3.jpeg"
 
-  image4="images/gallery-4.jpeg"
-  link4="https://valexandrov.github.io/webpage/images/gallery-4.jpeg"
+  image4="images/gallery-4.jpg"
+  link4="https://valexandrov.github.io/webpage/images/gallery-4.jpg"
 
-  image5="images/gallery-5.jpg"
-  link5="https://valexandrov.github.io/webpage/images/gallery-5.jpg"
+  image5="images/gallery-5.jpeg"
+  link5="https://valexandrov.github.io/webpage/images/gallery-5.jpeg"
 
-  image6="images/gallery-6.jpeg"
-  link6="https://valexandrov.github.io/webpage/images/gallery-6.jpeg"
+  image6="images/gallery-6.jpg"
+  link6="https://valexandrov.github.io/webpage/images/gallery-6.jpg"
 
   image7="images/gallery-7.jpeg"
   link7="https://valexandrov.github.io/webpage/images/gallery-7.jpeg"
+
+  image8="images/gallery-8.jpeg"
+  link8="https://valexandrov.github.io/webpage/images/gallery-8.jpeg"
 %}
