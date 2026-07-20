@@ -1,3 +1,9 @@
+- id: doi:10.1021/acscatal.6c02764
+  image: https://pubs.acs.org/cms/10.1021/acscatal.6c02764/asset/images/medium/cs6c02764_toc.gif
+  extra-links:
+    - type: pdf
+      link: https://valexandrov.github.io/webpage/papers/effect-of-alkali-metal-cations-on-nitrate-electroreduction-kinetics-mass-transport-and-cobalt-catalyst-oxidation.pdf
+
 - id: doi:10.1149/2.F06262IF
   image: https://cms.iopscience.org/14462714-d891-11e9-b831-037d18333577/journal_cover?guest=true
   extra-links:
