@@ -1,5 +1,26 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1021/acscatal.6c02764
+  title: Effect of Alkali Metal Cations on Nitrate Electroreduction Kinetics, Mass
+    Transport, and Cobalt Catalyst Oxidation
+  authors:
+  - Rajkumar Jana
+  - O. Quinn Carvalho
+  - Ruth Bello
+  - Payal Chaudhary
+  - Jiyun Hong
+  - Adam S. Hoffman
+  - Simon R. Bare
+  - Ankur Gupta
+  - Vitaly Alexandrov
+  - Kelsey A. Stoerzinger
+  publisher: ACS Catalysis
+  date: '2026-07-20'
+  link: https://doi.org/hcb64x
+  image: https://pubs.acs.org/cms/10.1021/acscatal.6c02764/asset/images/medium/cs6c02764_toc.gif
+  extra-links:
+  - type: pdf
+    link: https://valexandrov.github.io/webpage/papers/effect-of-alkali-metal-cations-on-nitrate-electroreduction-kinetics-mass-transport-and-cobalt-catalyst-oxidation.pdf
 - id: doi:10.1149/2.F06262IF
   title: 'A Tale of Two Double Layers: Metallic vs Semiconductor Electrodes'
   authors:
