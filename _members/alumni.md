@@ -24,10 +24,10 @@ aliases:
 
 ### High School Students
 - Jae Hyun Lim, Summer 2017 (-> Harvard)
-- Sofia Sarroub-Le Sueur, Summer 2023 (Lincoln East High School)
+- Sofia Sarroub-Le Sueur, Summer 2023 (Lincoln East High School), (-> Emory University)
 - Sai Nallani, Summer 2024, (Westside High School, Omaha)
 - Brian Lopez Medina, Summer 2024 (Lincoln High School)
-- Matthew Moisseyev, Summer 2024 (Lincoln East High School)
+- Matthew Moisseyev, Summer 2024 (Lincoln East High School), (-> UNL)
 - Steven Nguyen, Summer 2025 (Lincoln High School)
-- Owen Wiebe, Fall 2025 (Lincoln East High School)
+- Owen Wiebe, Fall 2025 (Lincoln East High School), (-> Cornell University)
 - Peter Foss, Summer 2026 (Lincoln East High School)
