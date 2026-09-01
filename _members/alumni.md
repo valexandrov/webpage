@@ -23,7 +23,7 @@ aliases:
 - Sasha Gerasimov, Summer 2026 (-> UNL)
 
 ### High School Students
-- Jae Hyun Lim, Summer 2017 (-> Harvard)
+- Jae Hyun Lim, Summer 2017 (Lincoln East High School), (-> Harvard)
 - Sofia Sarroub-Le Sueur, Summer 2023 (Lincoln East High School), (-> Emory University)
 - Sai Nallani, Summer 2024, (Westside High School, Omaha)
 - Brian Lopez Medina, Summer 2024 (Lincoln High School)
